@@ -9,9 +9,12 @@
 		"lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0"
 	},
 	"dependencies": {
+		"@thirdweb-dev/react": "^4.9.4",
 		"react": "^18.3",
 		"react-dom": "^18.3",
-		"thirdweb": "^5"
+		"react-router-dom": "^6.28.2",
+		"react-toastify": "^11.0.3",
+		"thirdweb": "^5.86.2"
 	},
 	"devDependencies": {
 		"@types/react": "^18.2.56",
